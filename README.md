@@ -28,11 +28,7 @@ This project implements a YOLOv10-based deep learning model to detect Personal P
 
 - Helmet  
 - Vest  
-- Gloves  
-- Mask  
 - Boots  
-- Glasses  
-- Ear Protection  
 - Person
 
 ---
